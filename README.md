@@ -18,15 +18,20 @@ Welcome to the Recipe Book project! This is a simple web application where users
 ## Structure 
 
 Recipe-Book-Main/
-├── app.js             # Main application file
-├── model/
-│   └── Recipe.js      # Mongoose model for recipes
-├── views/
-│   ├── home.ejs       # Main view for displaying recipes
-│   ├── edit.ejs       # View for editing a recipe
-│   └── recipe.ejs     # View for displaying a single recipe
-├── data/
-│   └── recipes.json    # Sample recipe data (from database)
-└── importRecipes.js    # Script to import sample recipes
 
+├── app.js            
+├── model/
+
+│     └── Recipe.js 
+
+├── views/
+
+│     ├── home.ejs    
+│     ├── edit.ejs       
+│     └── recipe.ejs 
+
+├── data/
+
+│     └── recipes.json   
+└── importRecipes.js   
 
