@@ -14,7 +14,7 @@ Welcome to the Recipe Book project! This is a simple web application where users
 
 - Node.js
 - MongoDB
-- 
+  
 ## Installation & Usage
 
 To run this project, follow the steps:
