@@ -14,24 +14,55 @@ Welcome to the Recipe Book project! This is a simple web application where users
 
 - Node.js
 - MongoDB
+- 
+## Installation & Usage
+
+To run this project, follow the steps:
+
+```bash
+npm install express mongoose body-parser cors
+```
+
+```bash
+Npx nodemon app.js
+```
+```bash
+node server.js
+```
+Once the server is running, access the application in your browser: Default URL: http://localhost:5000
 
 ## Structure 
 
-Recipe-Book-Main/
+RecipeBook/
 
-├── app.js            
-├── model/
+├── app/                         
 
-│     └── Recipe.js 
+│     ├────── models/                  
 
-├── views/
+│     ├────── routes/                
 
-│     ├── home.ejs    
-│     ├── edit.ejs       
-│     └── recipe.ejs 
+│     ├────── controllers/             
 
-├── data/
+│     └────── utils/                 
 
-│     └── recipes.json   
-└── importRecipes.js   
+├── config/                      
+
+├── public/                      
+
+│     ├────── css/                     
+
+│     ├────── js/                      
+
+│     └────── images/                  
+
+├── views/                       
+
+├── node_modules/                
+
+├── package.json                 
+
+├── package-lock.json            
+
+└── README.md                    
+ 
 
