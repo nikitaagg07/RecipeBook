@@ -1,0 +1,81 @@
+[{
+  "_id": {
+    "$oid": "6729ed2acf3e98c1e6129ef8"
+  },
+  "name": "Classic Spaghetti Aglio e Olio",
+  "ingredients": "400 grams of spaghetti\r\n6 cloves of garlic, thinly sliced\r\n1/2 cup of extra virgin olive oil\r\n1 teaspoon red pepper flakes (adjust to taste)\r\nSalt, to taste\r\nFresh parsley, chopped (for garnish)\r\nGrated Parmesan cheese (optional)",
+  "method": "1.Cook the Spaghetti: \r\nBring a large pot of salted water to a boil. Add the spaghetti and cook according to package instructions until al dente. Reserve about 1 cup of pasta water, then drain the spaghetti.\r\n2.Prepare the Sauce: In a large skillet over medium heat, add the olive oil. Once the oil is hot, add the sliced garlic and red pepper flakes. Cook until the garlic is golden brown, about 2 minutes. Be careful not to burn the garlic, as it can turn bitter.\r\n\r\nCombine Spaghetti and Sauce: Add the drained spaghetti to the skillet. Toss well to coat the spaghetti in the garlic oil. If the pasta seems dry, add a little reserved pasta water to help loosen it up.\r\n3.Season and Serve: Season with salt to taste. Remove from heat and toss in chopped parsley. Serve immediately, topped with grated Parmesan cheese if desired.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729ee66cf3e98c1e6129f00"
+  },
+  "name": "Classic Pancakes",
+  "ingredients": "1 cup all-purpose flour\r\n2 tablespoons sugar\r\n1 tablespoon baking powder\r\n1/2 teaspoon salt\r\n1 cup milk\r\n1 large egg\r\n2 tablespoons melted butter\r\n1 teaspoon vanilla extract",
+  "method": "In a bowl, whisk together the flour, sugar, baking powder, and salt.\r\nIn another bowl, mix the milk, egg, melted butter, and vanilla extract until well combined.\r\nPour the wet ingredients into the dry ingredients, stirring gently until just combined.\r\nHeat a non-stick skillet over medium heat and lightly grease it.\r\nPour 1/4 cup batter onto the skillet for each pancake. Cook until bubbles appear on the surface, then flip and cook until golden brown on the other side.\r\nServe warm with syrup, fresh fruit, or toppings of your choice.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729f71dcf3e98c1e6129f38"
+  },
+  "name": "Vegetable Stir-Fry",
+  "ingredients": "1 tablespoon vegetable oil\r\n1 cup broccoli florets\r\n1 red bell pepper, sliced\r\n1 carrot, sliced\r\n1 zucchini, sliced\r\n2 tablespoons soy sauce\r\n1 teaspoon sesame oil\r\nSalt and pepper to taste",
+  "method": "Heat vegetable oil in a large skillet or wok over medium-high heat.\r\nAdd the broccoli, bell pepper, carrot, and zucchini. Stir-fry for 5-7 minutes until the vegetables are tender-crisp.\r\nAdd soy sauce and sesame oil, tossing to coat the vegetables evenly.\r\nSeason with salt and pepper to taste, then serve hot.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729f743cf3e98c1e6129f3b"
+  },
+  "name": "Chocolate Chip Cookies",
+  "ingredients": "1 cup softened butter\r\n1 cup sugar\r\n1 cup brown sugar\r\n2 large eggs\r\n1 teaspoon vanilla extract\r\n3 cups all-purpose flour\r\n1 teaspoon baking soda\r\n1/2 teaspoon salt\r\n2 cups chocolate chips",
+  "method": "Preheat the oven to 350°F (175°C).\r\nCream the butter, sugar, and brown sugar together until light and fluffy.\r\nAdd the eggs and vanilla extract, mixing until well combined.\r\nIn another bowl, whisk together flour, baking soda, and salt.\r\nGradually add the dry ingredients to the butter mixture, stirring until combined. Fold in the chocolate chips.\r\nDrop tablespoonfuls of dough onto a baking sheet lined with parchment paper.\r\nBake for 10-12 minutes, until the edges are golden brown. Allow cookies to cool before serving.\r\n",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729f7dccf3e98c1e6129f3e"
+  },
+  "name": "Chickpea & Spinach Curry",
+  "ingredients": "Chickpeas, spinach, onion, garlic, ginger, tomatoes, coconut milk, cumin, turmeric, garam masala, chili powder, salt, olive oil, fresh cilantro.",
+  "method": "Sauté onions, garlic, and ginger until soft. Add spices and cook for 1-2 minutes. Add tomatoes and cook until softened, then stir in chickpeas and coconut milk. Simmer for 10-15 minutes. Add spinach and cook until wilted. Garnish with cilantro and serve with rice or naan.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729f800cf3e98c1e6129f41"
+  },
+  "name": "Stuffed Bell Peppers",
+  "ingredients": "Bell peppers, cooked quinoa or rice, black beans, corn, diced tomatoes, onion, garlic, cumin, paprika, shredded cheese, salt, black pepper, fresh parsley.",
+  "method": "Cut the tops off bell peppers and remove seeds. Sauté onions and garlic, then add black beans, corn, tomatoes, spices, and cooked quinoa or rice. Stuff mixture into peppers, top with cheese, and bake at 375°F (190°C) for 20-25 minutes until peppers are tender. Garnish with parsley.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729f866cf3e98c1e6129f4e"
+  },
+  "name": "Mango Lassi",
+  "ingredients": "Mango pulp or fresh mangoes, plain yogurt, milk, sugar or honey, cardamom powder, ice cubes.",
+  "method": "Blend mango, yogurt, milk, and sugar or honey until smooth. Add cardamom powder and ice cubes, blend again until creamy. Serve chilled, optionally garnished with a sprinkle of cardamom.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729f8aecf3e98c1e6129f51"
+  },
+  "name": "Iced Hibiscus Tea",
+  "ingredients": "Dried hibiscus flowers, water, honey or agave syrup, fresh mint leaves, lemon slices, ice.",
+  "method": "Boil water and steep hibiscus flowers for 5-10 minutes. Strain, add honey, and cool. Serve over ice with fresh mint leaves and lemon slices for a refreshing twist.",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6729f8cdcf3e98c1e6129f54"
+  },
+  "name": "Masala Chai (Spiced Tea)",
+  "ingredients": "Black tea, water, milk, cardamom pods, cloves, cinnamon stick, ginger, black peppercorns, sugar.",
+  "method": "Bring water, spices, and grated ginger to a boil. Add tea and simmer for 5 minutes, then add milk and sugar. Simmer for another 2-3 minutes, then strain into cups.",
+  "__v": 0
+}]
