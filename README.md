@@ -31,38 +31,6 @@ node server.js
 ```
 Once the server is running, access the application in your browser: Default URL: http://localhost:5000
 
-## Structure 
-
-RecipeBook/
-
-├── app/                         
-
-│     ├────── models/                  
-
-│     ├────── routes/                
-
-│     ├────── controllers/             
-
-│     └────── utils/                 
-
-├── config/                      
-
-├── public/                      
-
-│     ├────── css/                     
-
-│     ├────── js/                      
-
-│     └────── images/                  
-
-├── views/                       
-
-├── node_modules/                
-
-├── package.json                 
-
-├── package-lock.json            
-
-└── README.md                    
+                  
  
 
